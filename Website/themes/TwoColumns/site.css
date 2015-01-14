@@ -15,7 +15,7 @@ html, body{
 }
 
 body {
-    font: 1.8em/1.5 'Century Gothic', Verdana, Geneva, 'DejaVu Sans', sans-serif;
+    font: 1.5em/1.4 'Century Gothic', Verdana, Geneva, 'DejaVu Sans', sans-serif;
     margin: 0;
 }
 
@@ -68,7 +68,7 @@ input[type], button, textarea {
 
 .post header div {
     font-size: .75em;
-    opacity: .8;
+    opacity: .7;
     margin-bottom: 1em;
 }
 
